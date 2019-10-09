@@ -1,0 +1,43 @@
+<?php
+$lang = array(
+'show_groups' => "Clans",
+'show_group' => "Clan",
+'show_ladder' => "Standings",
+'onevsone' => "1v1",
+'twovstwo' => "2v2",
+'threevsthree' => "3v3",
+'description' => "Description",
+'add'			=> "Add Member",
+'name'		  => "Name",
+'clan'		  => "Clan Name",
+'details'	  => "Show Details",
+'open'		  => "Open",
+'state'		  => "Join/ Leave Your Clan",
+'state_to_users'	=> "State",
+'closed'	  => "Closed",
+'validating'  => "Validating",
+'join'		  => "Join",
+'unjoin'		  => "Leave",
+'member'		=> "Member",
+'del_uncheck'	=> "Delete checked",
+'submit'		=> "Submit",
+'searchmem'		=> "Search member",
+'approve'		=> "Approve these validating members",
+'delete'		=> "Delete these validating members",
+'add_member'	=> "Add Member",
+'joined_members' => "Members that are in this clan",
+'validate_members' => "Members that want to join this clan",
+// redirecting
+'ug_unjoin'		=> "Your now no longer a member of this clan, goodbye",
+'ug_join'		=> "You have now joined this clan, thank you",
+'ug_validating' => "Your now on the validating list, please wait until a mod allowes you to join",
+'ug_ap_val_done'	=> "Select members are now approved",
+'ug_de_val_done'	=> "Select members are now deleted",
+//email contens
+'disapproved'		=> "disapproved",
+'approved'			=> "approved",
+"dis_dont"			=> "please, don't ask the the team why you got disapproved",
+'SUBMITED'			=> "About your clan that you are validating for ",
+'to_many' => "This user is already in a TC clan"
+);
+?>
